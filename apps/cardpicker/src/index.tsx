@@ -1,0 +1,3 @@
+import("./bootloader");
+
+export default {};
