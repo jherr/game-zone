@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Shell } from "ui";
-import { TopNumber } from "./TopNumber";
+import { TopNumber } from "games";
 
 function App() {
   return (
